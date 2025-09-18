@@ -1,0 +1,20 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# Logs
+*.log
+
+# Sensitive outputs
+successful_accounts.csv
+successful_accounts.json
+accounts_sample.csv
+
+# System files
+.DS_Store
+Thumbs.db
